@@ -1,0 +1,15 @@
+INSERT INTO up_users VALUES (1, 'Tule Nguyen', 'salem.lem.nhem89@gmail.com', 'local', NULL, NULL, NULL, 1, 0, '2023-07-03 09:25:44', '2024-07-04 03:35:39', 1, 1);
+INSERT INTO up_users VALUES (3, 'Châu Nguyễn', 'chaunm89@gmail.com', 'local', NULL, NULL, NULL, 1, 0, '2023-07-04 08:30:27', '2023-07-04 08:30:28', 1, 1);
+INSERT INTO up_users VALUES (5, 'truongdx', 'truongdx@nami.trade', 'local', NULL, NULL, NULL, 1, 0, '2023-07-10 07:39:15', '2024-02-20 08:20:42', 1, 1);
+INSERT INTO up_users VALUES (4, 'Arnold', 'anhnv@nami.trade', 'local', NULL, NULL, NULL, 1, 0, '2023-07-04 09:36:42', '2023-07-21 02:23:21', 1, 1);
+INSERT INTO up_users VALUES (6, 'Dat Nguyen Duc', 'datnd@nami.trade', 'local', NULL, NULL, NULL, 1, 0, '2023-07-13 02:42:05', '2024-04-09 03:56:31', 1, 1);
+INSERT INTO up_users VALUES (2, 'devnhut', 'nhutnhm@nami.trade', 'local', NULL, NULL, NULL, 1, 0, '2023-07-04 07:41:33', '2023-07-07 02:51:02', 1, 1);
+INSERT INTO up_users VALUES (9, 'Hanna', 'nganth@nami.trade', 'local', NULL, NULL, NULL, 1, 0, '2023-07-24 07:21:25', '2024-05-07 03:17:03', 1, 1);
+INSERT INTO up_users VALUES (7, 'David', 'hungbq@nami.trade', 'local', NULL, NULL, NULL, 1, 0, '2023-07-17 08:40:39', '2024-01-18 02:57:02', 1, 1);
+INSERT INTO up_users VALUES (11, 'Theu Pham', 'theupt@nami.trade', 'local', NULL, NULL, NULL, 1, 0, '2023-09-12 02:37:52', '2023-09-12 02:48:27', 1, 1);
+INSERT INTO up_users VALUES (10, 'Phuc Do', 'phucdt@nami.trade', 'local', NULL, NULL, NULL, 1, 0, '2023-07-25 04:16:45', '2024-03-06 02:15:31', 1, 1);
+INSERT INTO up_users VALUES (8, 'Phong', 'phongvh@nami.trade', 'local', NULL, NULL, NULL, 1, 0, '2023-07-18 03:23:59', '2023-09-11 10:46:08', 1, 1);
+INSERT INTO up_users VALUES (14, 'Nguyễn Thế Hiếu', 'hieunt@nami.trade', 'local', NULL, NULL, NULL, 1, 0, '2024-02-02 03:17:11', '2024-07-23 02:47:08', 1, 1);
+INSERT INTO up_users VALUES (15, 'Tracy', 'thulh@nami.trade', 'local', NULL, NULL, NULL, 1, 0, '2024-04-04 02:36:09', '2024-07-17 08:47:53', 1, 1);
+INSERT INTO up_users VALUES (13, 'Nguyễn Hoài Uyên Phương', 'phuongnhu@nami.trade', 'local', NULL, NULL, NULL, 1, 0, '2024-01-03 07:09:38', '2024-03-27 02:30:58', 1, 1);
+INSERT INTO up_users VALUES (12, 'Doan Minh Chau', 'chaudm@nami.trade', 'local', NULL, NULL, NULL, 1, 0, '2023-12-01 03:49:46', '2024-01-18 02:57:09', 1, 1);
